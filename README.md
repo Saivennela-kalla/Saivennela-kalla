@@ -1,53 +1,62 @@
-Hello, I'm Sai Vennela Kalla 
+<div align="center">
+  <img src="./profile-banner.svg" alt="Sai Vennela Kalla — Computer Science, AI and Data Engineering" width="100%" />
+</div>
 
-**B.Tech Computer Science student | AI/ML | Generative AI | Data Engineering**
+<div align="center">
+  <a href="https://www.linkedin.com/in/sai-vennela-kalla-9999a02b8/">LinkedIn</a> &nbsp;✦&nbsp;
+  <a href="mailto:saivennel.kalla7@gmail.com">Email</a> &nbsp;✦&nbsp;
+  <a href="https://github.com/Saivennela-kalla">GitHub</a>
+</div>
 
-I'm a Computer Science undergraduate at Gayatri Vidya Parishad College of Engineering, graduating in 2028. I enjoy building practical projects across software development, data engineering, and AI. I'm currently looking for internship opportunities in these areas.
+## ✦ A little about me
 
-## Skills
+Computer Science undergraduate at **Gayatri Vidya Parishad College of Engineering** (class of 2028), exploring how software, cloud data, and AI can solve practical problems. I’ve worked on AWS data pipelines and an AI-powered commerce application, and I’m looking for an internship where I can keep learning by building.
 
-- **Languages:** Python, Java, C, TypeScript, SQL
-- **Cloud and data:** AWS (S3, Glue, Lambda, Athena, Redshift, DynamoDB), data pipelines, data quality and validation, data visualization
-- **AI/ML:** Machine learning, deep learning, generative AI, LLMs, agentic AI
-- **Core and web:** Data structures and algorithms, object-oriented programming, REST APIs, HTML, CSS
-- **Tools:** Git, GitHub, Microsoft Excel, Microsoft Copilot
+`VISAKHAPATNAM, INDIA` · `B.TECH CSE '28` · `OPEN TO INTERNSHIPS`
 
-## Projects
+## ✦ My toolkit
 
-### AWS Sales Pipeline Data Engineering
-*Amazon S3, AWS Glue, Athena, Redshift*
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Designed a cloud workflow to ingest, validate, transform, and analyze sales data. The pipeline handles duplicate and invalid records and turns raw data into analysis-ready datasets and reports.
+**Cloud & data**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-### Vennela AI Commerce
-*HTML, CSS, TypeScript/Java, APIs*
+**Web, AI & tools**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6E40C9?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative_AI-6E40C9?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Developed an AI-powered commerce application, using web technologies, API integration, and AI concepts to support an intelligent application workflow.
+## ✦ Selected work
 
-## Experience
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ AWS Sales Pipeline</h3>
+      <p>Built a cloud workflow to ingest, validate, transform, and analyze sales data. Added data quality handling for duplicate and invalid records.</p>
+      <sub>Amazon S3 · AWS Glue · Athena · Redshift</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✧ Vennela AI Commerce</h3>
+      <p>Created an AI-powered commerce application, combining web technologies, API integration, and AI concepts in an intelligent application workflow.</p>
+      <sub>HTML · CSS · TypeScript/Java · APIs</sub>
+    </td>
+  </tr>
+</table>
 
-**AWS Data Engineering Virtual Internship — EduSkills Virtual**
+## ✦ GitHub at a glance
 
-Completed an industry-aligned virtual internship focused on cloud data pipelines. Worked with Amazon S3, AWS Glue, Athena, and Redshift to ingest, transform, and query data.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saivennela-kalla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saivennela-kalla&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
 
-## Education
+## ✦ Beyond the code
 
-**Gayatri Vidya Parishad College of Engineering (Autonomous)**  
-B.Tech in Computer Science and Engineering · Expected 2028
+- **AWS Data Engineering Virtual Internship** — EduSkills Virtual
+- **Certifications:** Oracle Cloud Infrastructure AI Foundations Associate; AWS Academy Data Engineering Training Badge; Claude 101, Claude Platform 101, AI Fluency and Foundations
+- **Community:** AsCI (Association of Computer Intellects)
+- **Event:** Razorpay Hackathon participant
 
-## Certifications
-
-- Oracle Cloud Infrastructure Certified AI Foundations Associate
-- AWS Academy Graduate — Data Engineering Training Badge
-- Claude 101, Claude Platform 101, AI Fluency and Foundations — Certificates of Completion
-
-## Activities
-
-- Participated in the Razorpay Hackathon
-- Member of AsCI (Association of Computer Intellects)
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sai-vennela-kalla-9999a02b8/)
-- [GitHub](https://github.com/Saivennela-kalla)
-- [Email](mailto:saivennel.kalla7@gmail.com)
+<div align="center">
+  <br />
+  <i>Curious by nature. Building one project at a time.</i>
+</div>
