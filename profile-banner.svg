@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Vennela Kalla — Computer Science, AI and Data Engineering</title>
+  <desc id="desc">A deep navy banner with a purple and cyan gradient, geometric orbit lines, and the text Sai Vennela Kalla.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1d"/>
+      <stop offset="0.58" stop-color="#111b37"/>
+      <stop offset="1" stop-color="#172d48"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="970" cy="115" r="250" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" opacity=".48">
+    <ellipse cx="970" cy="180" rx="185" ry="62" transform="rotate(-28 970 180)" stroke-width="1.5"/>
+    <ellipse cx="970" cy="180" rx="185" ry="62" transform="rotate(28 970 180)" stroke-width="1.5"/>
+    <circle cx="970" cy="180" r="108" stroke-width="1" opacity=".5"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="818" cy="91" r="5"/><circle cx="1120" cy="223" r="5"/><circle cx="974" cy="72" r="4"/>
+  </g>
+  <path d="M72 78h44" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="72" y="154" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Sai Vennela Kalla</text>
+  <text x="74" y="204" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="21">Computer Science Undergraduate · AI/ML · Data Engineering</text>
+  <text x="74" y="254" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Learning by building thoughtful, practical technology.</text>
+  <rect x="72" y="294" width="260" height="3" rx="2" fill="url(#accent)"/>
+</svg>
